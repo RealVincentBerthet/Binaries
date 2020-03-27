@@ -29,7 +29,7 @@ Ca va te "charger le contenue du jeu comme un CD"
 Il va te demander les droits d'administration tu lui dis ok bro je te fais confiance
 
 
-![](img/1_iso.JPG)
+![](img/1_iso.jpg)
 
 
 ### 3. Setup
