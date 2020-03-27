@@ -7,7 +7,7 @@ Bon dans un premier temps tu as besoin des fichiers du jeu
 
 **==> Mais tu auras besoin de 86Go de libre, 43Go pour le telecharger et 43Go pour l'installer, on supprimera à la fin les fichiers téléchargés**
 
-* Télécharge [cela](https://github.com/RealVincentBerthet/LesSims/releases/download/a/Sims4.zip)
+* Télécharge [cela](https://github.com/RealVincentBerthet/Binaries/releases/download/Games%2FSims4/Sims4.zip)
 * De-zip le dossier (clic droit extraire) 
 * Met le dossier où tu souhaite télécharger les fichiers pour l'installation
 * Ouvre le torrent et ne selectionne que `codex-the.sims.4.discover.university.iso` et sauvegarde le dans le même repertoire que celui téléchargé au debut
