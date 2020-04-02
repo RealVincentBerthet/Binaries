@@ -2,9 +2,9 @@
 
 ## Téléchargement
 
-* **Adobe Photoshop :** [Adobe.Photoshop.CC.2018.zip](https://github.com/RealVincentBerthet/Binaries/releases/download/Win10%2FPhotoshop/Adobe.Photoshop.CC.2018.zip) 
-* **Adobe Lightroom :** [Adobe.Lightroom.Classic.zip](https://github.com/RealVincentBerthet/Binaries/releases/download/Win10%2FLightroom/Adobe.Lightroom.Classic.zip) 
-* **Adobe Illustrator :** [Adobe.Illustrator.CC.2018.zip](https://github.com/RealVincentBerthet/Binaries/releases/download/Win10%2FIllustrator/Adobe.Illustrator.CC.2018.zip)
+* **Adobe Photoshop :** [Adobe.Photoshop.CC.2018.zip](https://github.com/RealVincentBerthet/Binaries/releases/download/win%2FPhotoshop/Adobe.Photoshop.CC.2018.zip) 
+* **Adobe Lightroom :** [Adobe.Lightroom.Classic.zip](https://github.com/RealVincentBerthet/Binaries/releases/download/win%2FLightroom/Adobe.Lightroom.Classic.zip) 
+* **Adobe Illustrator :** [Adobe.Illustrator.CC.2018.zip](https://github.com/RealVincentBerthet/Binaries/releases/download/win%2FIllustrator/Adobe.Illustrator.CC.2018.zip)
 * **Adobe Premiere :** []()
 
 ## Installation
