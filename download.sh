@@ -47,6 +47,7 @@ then
 	download ${url}Lightroom/Adobe.Lightroom.Classic.zip
 	download ${url}Illustrator/Adobe.Illustrator.CC.2018.zip
 	download ${url}PremierePro/PremierePro11.zip
+	download ${url}MSOffice/MSOffice16.zip
 else
 	echo "No correct platform"
 fi
